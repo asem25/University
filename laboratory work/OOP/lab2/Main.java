@@ -5,7 +5,7 @@ import java.io.*;
 import java.util.*;
 
 
-public class homework {
+public class Main {
 
     private static final String string = "\"Я помню чудное мгновенье:\n " +
             "Передо мной явилась ты,\n " +
